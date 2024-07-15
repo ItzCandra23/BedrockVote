@@ -10,7 +10,7 @@ To get the Reward after vote, player can use command to claim reward but this co
 This addon can send a Reward Items after player vote or can send from specific command and you can edit this from in game easily with command
 - **NPC:** `/scriptevent candra:vote reward`
 - **Command:** `/scriptevent candra:vote reward <AdminName>`
-```json
+```jsonc
 [
     {
         "typeId": "iron_sword",
