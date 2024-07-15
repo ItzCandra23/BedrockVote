@@ -43,7 +43,7 @@ This addon can send a Reward Items after player vote or can send from specific c
 This script addon have configuration that you can **edit it in game** with specific command
 - **NPC:** `/scriptevent candra:vote config`
 - **Command:** `/scriptevent candra:vote config <AdminName>`
-```json
+```ts
 {
     // Server Key that you can get from the Website
     "serverKey": "r8e62bgNiEiKCRVaHeAO5XULJi5yqeHeND0",
