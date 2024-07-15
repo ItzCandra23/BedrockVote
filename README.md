@@ -78,6 +78,6 @@ This script addon have configuration that you can **edit it in game** with speci
 ```
 
 ## HEREE
-- Links: **[[Download Here](https://adsafelink.com/7PnLWID)] [[Discord](https://discord.gg/zBvW9pb2Dz)]**
+- Links: **[[Download Here](https://adsafelink.com/7PnLWID)] [[Discord](https://discord.gg/zBvW9pb2Dz)] [[BedrockVote Github](https://github.com/ItzCandra23/BedrockVote)]**
 - Author: **[ItzCandra23](https://discordapp.com/users/822266948607148042)**
 - License: **MIT License**
