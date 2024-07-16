@@ -1,5 +1,5 @@
 # BedrockVote
-**BedrockVote** is a reward plugin for Bedrock Server written by ItzCandra23. Gives reward to players that voted for your server on [MinecraftPocket-Servers.com](https://minecraftpocket-servers.com). And can customize the configuration and reward items easier in game.
+**BedrockVote** is a reward plugin for Bedrock Server written by **ItzCandra23**. Gives reward to players that voted for your server on [MinecraftPocket-Servers.com](https://minecraftpocket-servers.com). And can customize the [configuration](#configuration) and [reward items](#reward) easier in game.
 
 ## Vote Command
 To get the Reward after vote, player can use command to claim reward but this command maybe no needed if Realtime Configuration actived
@@ -76,6 +76,10 @@ This script addon have configuration that you can **edit it in game** with speci
     }
 }
 ```
+
+## Support Me
+[<img src="images/ryo-pls-donate.jpeg" height="250">](https://ko-fi.com/itzcandra23)
+- **Donate:** [ko-fi](https://ko-fi.com/itzcandra23) [Patreon](patreon.com/CandraDev)
 
 ## Changelogs
 - ### **BedrockVote v1.0**
