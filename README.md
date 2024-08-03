@@ -86,8 +86,10 @@ This script addon have configuration that you can **edit it in game** with speci
   - Add Vote System
   - Add Configuration in Game Editor
   - Add Reward Items in Game Editor
+- ### **BedrockVote v1.1**
+  - Fix Configuration
 
 ## HEREE
-- Links: **[[Download Here](https://adsafelink.com/7PnLWID)] [[Discord](https://discord.gg/zBvW9pb2Dz)] [[BedrockVote Github](https://github.com/ItzCandra23/BedrockVote)]**
+- Links: **[[Download Here](https://github.com/ItzCandra23/BedrockVote/releases)] [[Discord](https://discord.gg/zBvW9pb2Dz)] [[BedrockVote Github](https://github.com/ItzCandra23/BedrockVote)]**
 - Author: **[ItzCandra23](https://discordapp.com/users/822266948607148042)**
 - License: **MIT License**
