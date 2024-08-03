@@ -83,7 +83,7 @@ This script addon have configuration that you can **edit it in game** with speci
 
 ## Changelogs
 - ### **BedrockVote v1.0**
-  - Add Vote System
+  - Add Realtime Vote System
   - Add Configuration in Game Editor
   - Add Reward Items in Game Editor
 - ### **BedrockVote v1.1**
