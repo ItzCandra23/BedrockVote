@@ -1,0 +1,45 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "§aBedrock§eVote §bByItzCandra23§r",
+		"description": "§bhttps://discord.gg/naRZ8tE3yC §afor more information!",
+		"uuid": "258fc87c-76fa-4451-8f65-936700df04e4",
+		"version": [ 2, 0, 0 ],
+		"min_engine_version": [ 1, 21, 100 ]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "55684a82-d637-4d60-8140-62eba41a94fa",
+			"version": [ 1, 0, 0 ]
+		},
+		{
+			"description": "",
+			"uuid": "37147404-683f-4ec5-be8a-67151c1f90e8",
+			"version": [ 1, 0, 0],
+			"type": "script",
+			"language": "javascript",
+			"entry": "scripts/index.js"
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "2.2.0-beta"
+		},
+		{
+			"module_name": "@minecraft/server-net",
+			"version": "1.0.0-beta"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "2.1.0-beta"
+		}
+	],
+    "metadata": {
+        "authors": [ "ItzCandra23 (github.com/ItzCandra23)" ],
+        "license": "MIT License",
+		"url": "https://github.com/ItzCandra23/BedrockVote"
+    },
+	"capabilities": []
+}
