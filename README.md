@@ -48,7 +48,7 @@ This addon have rewards system that give it to players when vote and claim the r
 
 ### Type: RunCommand
 
-| Key         | What it is       | Required? | Easy Explanation                                                   |
+| Key         | What it is       | Required? | Explanation                                                   |
 | ----------- | ---------------- | --------- | ------------------------------------------------------------------ |
 | **actor**   | Who runs it      | ❌ No     | Who will execute the command (for example `player` or `server`).   |
 | **commands**| Command(s)       | ✅ Yes    | The command or list of commands to run. Can be one or multiple.    |
@@ -178,4 +178,5 @@ Example command for update the server vote configuration
 - Source: https://github.com/ItzCandra23/BedrockVote
 - Discord: https://discord.gg/naRZ8tE3yC
 - Author: **[ItzCandra23](https://discordapp.com/users/822266948607148042)**
+
 - License: **MIT License**
